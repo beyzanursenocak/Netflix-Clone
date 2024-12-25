@@ -1,0 +1,338 @@
+{
+    "0": [
+        { 
+            "name": "Inside Out 2",
+            "description": "The sequel to Inside Out follows Riley as a teenager, exploring her emotional changes as she navigates new challenges in her life. The emotions inside her mind adapt to her growing and evolving personality.",
+            "year": "2024",
+            "genre": {
+                "one": "Animation",
+                "two": "Adventure",
+                "three": "Family"
+            }
+        },
+        { 
+            "name": "Inception",
+            "description": "A thief who steals secrets by entering dreams is tasked with planting an idea in someone's mind. As reality and dreams blur, the stakes grow higher.",
+            "year": "2010",
+            "genre": {
+                "one": "Science Fiction",
+                "two": "Thriller",
+                "three": "Action"
+            }
+        },
+        { 
+            "name": "Ayla",
+            "description": "Based on a true story, Ayla tells the emotional tale of a Turkish soldier who forms a bond with a young Kurdish girl during the Korean War, leading to a lifelong friendship.",
+            "year": "2017",
+            "genre": {
+                "one": "Drama",
+                "two": "War",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Avatar",
+            "description": "Set on the alien planet of Pandora, Avatar follows a paraplegic Marine who is sent to infiltrate the indigenous Na'vi people but ends up sympathizing with them in their battle against human invaders.",
+            "year": "2009",
+            "genre": {
+                "one": "Science Fiction",
+                "two": "Action",
+                "three": "Adventure"
+            }
+        },
+        { 
+            "name": "The Green Mile",
+            "description": "Based on Stephen King's novel, this drama follows a death row prison guard who witnesses miraculous events involving a condemned inmate with healing powers.",
+            "year": "1999",
+            "genre": {
+                "one": "Drama",
+                "two": "Fantasy",
+                "three": "Crime"
+            }
+        },
+        { 
+            "name": "Leon",
+            "description": "A hitman takes in a young girl after her family is killed by corrupt DEA agents. Together, they form an unlikely bond as she seeks revenge.",
+            "year": "1994",
+            "genre": {
+                "one": "Action",
+                "two": "Crime",
+                "three": "Drama"
+            }
+        },
+        { 
+            "name": "It",
+            "description": "Based on Stephen King's novel, It follows a group of children who face their greatest fears when a shape-shifting entity, disguised as a clown, terrorizes their town.",
+            "year": "2017",
+            "genre": {
+                "one": "Horror",
+                "two": "Thriller",
+                "three": "Drama"
+            }
+        },
+        { 
+            "name": "Passengers",
+            "description": "On a space voyage to a distant planet, two passengers wake up from hibernation 90 years too early and must face a growing crisis aboard the ship while developing a romantic bond.",
+            "year": "2016",
+            "genre": {
+                "one": "Science Fiction",
+                "two": "Adventure",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Joker",
+            "description": "Joker explores the origins of the iconic villain, focusing on Arthur Fleck, a struggling comedian in Gotham City who descends into madness and becomes the infamous criminal mastermind.",
+            "year": "2019",
+            "genre": {
+                "one": "Drama",
+                "two": "Crime",
+                "three": "Thriller"
+            }
+        },
+        { 
+            "name": "Oppenheimer",
+            "description": "Directed by Christopher Nolan, Oppenheimer tells the story of J. Robert Oppenheimer, the physicist behind the development of the atomic bomb during World War II, exploring the moral and personal dilemmas he faced.",
+            "year": "2023",
+            "genre": {
+                "one": "Drama",
+                "two": "History",
+                "three": "Biography"
+            }
+        },
+        { 
+            "name": "Çakallarla Dans 7",
+            "description": "The seventh installment of the 'Çakallarla Dans' series follows the four friends as they get tangled in a bigger, crazier criminal adventure in Istanbul, mixing comedy with action.",
+            "year": "2024",
+            "genre": {
+                "one": "Comedy",
+                "two": "Action",
+                "three": "Crime"
+            }
+        }
+    ],
+    "1": [
+        { 
+            "name": "Inception",
+            "description": "A thief who steals secrets by entering dreams is tasked with planting an idea in someone's mind. As reality and dreams blur, the stakes grow higher.",
+            "year": "2010",
+            "genre": {
+                "one": "Science Fiction",
+                "two": "Thriller",
+                "three": "Action"
+            }
+        },
+        { 
+            "name": "Ayla",
+            "description": "Based on a true story, Ayla tells the emotional tale of a Turkish soldier who forms a bond with a young Kurdish girl during the Korean War, leading to a lifelong friendship.",
+            "year": "2017",
+            "genre": {
+                "one": "Drama",
+                "two": "War",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Çakallarla Dans 7",
+            "description": "The seventh installment of the 'Çakallarla Dans' series follows the four friends as they get tangled in a bigger, crazier criminal adventure in Istanbul, mixing comedy with action.",
+            "year": "2024",
+            "genre": {
+                "one": "Comedy",
+                "two": "Action",
+                "three": "Crime"
+            }
+        },
+        { 
+            "name": "The Green Mile",
+            "description": "Based on Stephen King's novel, this drama follows a death row prison guard who witnesses miraculous events involving a condemned inmate with healing powers.",
+            "year": "1999",
+            "genre": {
+                "one": "Drama",
+                "two": "Fantasy",
+                "three": "Crime"
+            }
+        },
+        { 
+            "name": "It",
+            "description": "Based on Stephen King's novel, It follows a group of children who face their greatest fears when a shape-shifting entity, disguised as a clown, terrorizes their town.",
+            "year": "2017",
+            "genre": {
+                "one": "Horror",
+                "two": "Thriller",
+                "three": "Drama"
+            }
+        },
+        { 
+            "name": "Passengers",
+            "description": "On a space voyage to a distant planet, two passengers wake up from hibernation 90 years too early and must face a growing crisis aboard the ship while developing a romantic bond.",
+            "year": "2016",
+            "genre": {
+                "one": "Science Fiction",
+                "two": "Adventure",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Joker",
+            "description": "Joker explores the origins of the iconic villain, focusing on Arthur Fleck, a struggling comedian in Gotham City who descends into madness and becomes the infamous criminal mastermind.",
+            "year": "2019",
+            "genre": {
+                "one": "Drama",
+                "two": "Crime",
+                "three": "Thriller"
+            }
+        },
+        { 
+            "name": "Avatar",
+            "description": "Set on the alien planet of Pandora, Avatar follows a paraplegic Marine who is sent to infiltrate the indigenous Na'vi people but ends up sympathizing with them in their battle against human invaders.",
+            "year": "2009",
+            "genre": {
+                "one": "Science Fiction",
+                "two": "Action",
+                "three": "Adventure"
+            }
+        },
+        { 
+            "name": "Oppenheimer",
+            "description": "Directed by Christopher Nolan, Oppenheimer tells the story of J. Robert Oppenheimer, the physicist behind the development of the atomic bomb during World War II, exploring the moral and personal dilemmas he faced.",
+            "year": "2023",
+            "genre": {
+                "one": "Drama",
+                "two": "History",
+                "three": "Biography"
+            }
+        },
+        { 
+            "name": "Inside Out 2",
+            "description": "The sequel to Inside Out follows Riley as a teenager, exploring her emotional changes as she navigates new challenges in her life. The emotions inside her mind adapt to her growing and evolving personality.",
+            "year": "2024",
+            "genre": {
+                "one": "Animation",
+                "two": "Adventure",
+                "three": "Family"
+            }
+        },
+        { 
+            "name": "Leon",
+            "description": "A hitman takes in a young girl after her family is killed by corrupt DEA agents. Together, they form an unlikely bond as she seeks revenge.",
+            "year": "1994",
+            "genre": {
+                "one": "Action",
+                "two": "Crime",
+                "three": "Drama"
+            }
+        }
+    ],
+    "2": [
+        { 
+            "name": "It",
+            "description": "Based on Stephen King's novel, It follows a group of children who face their greatest fears when a shape-shifting entity, disguised as a clown, terrorizes their town.",
+            "year": "2017",
+            "genre": {
+                "one": "Horror",
+                "two": "Thriller",
+                "three": "Drama"
+            }
+        },
+        { 
+            "name": "The Green Mile",
+            "description": "Based on Stephen King's novel, this drama follows a death row prison guard who witnesses miraculous events involving a condemned inmate with healing powers.",
+            "year": "1999",
+            "genre": {
+                "one": "Drama",
+                "two": "Fantasy",
+                "three": "Crime"
+            }
+        },
+        { 
+            "name": "Oppenheimer",
+            "description": "Directed by Christopher Nolan, Oppenheimer tells the story of J. Robert Oppenheimer, the physicist behind the development of the atomic bomb during World War II, exploring the moral and personal dilemmas he faced.",
+            "year": "2023",
+            "genre": {
+                "one": "Drama",
+                "two": "History",
+                "three": "Biography"
+            }
+        },
+        { 
+            "name": "Inside Out 2",
+            "description": "The sequel to Inside Out follows Riley as a teenager, exploring her emotional changes as she navigates new challenges in her life. The emotions inside her mind adapt to her growing and evolving personality.",
+            "year": "2024",
+            "genre": {
+                "one": "Animation",
+                "two": "Adventure",
+                "three": "Family"
+            }
+        },
+        { 
+            "name": "Leon",
+            "description": "A hitman takes in a young girl after her family is killed by corrupt DEA agents. Together, they form an unlikely bond as she seeks revenge.",
+            "year": "1994",
+            "genre": {
+                "one": "Action",
+                "two": "Crime",
+                "three": "Drama"
+            }
+        },
+        { 
+            "name": "Passengers",
+            "description": "On a space voyage to a distant planet, two passengers wake up from hibernation 90 years too early and must face a growing crisis aboard the ship while developing a romantic bond.",
+            "year": "2016",
+            "genre": {
+                "one": "Science Fiction",
+                "two": "Adventure",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Inception",
+            "description": "A thief who steals secrets by entering dreams is tasked with planting an idea in someone's mind. As reality and dreams blur, the stakes grow higher.",
+            "year": "2010",
+            "genre": {
+                "one": "Science Fiction",
+                "two": "Thriller",
+                "three": "Action"
+            }
+        },
+        { 
+            "name": "Ayla",
+            "description": "Based on a true story, Ayla tells the emotional tale of a Turkish soldier who forms a bond with a young Kurdish girl during the Korean War, leading to a lifelong friendship.",
+            "year": "2017",
+            "genre": {
+                "one": "Drama",
+                "two": "War",
+                "three": "Romance"
+            }
+        },
+        { 
+            "name": "Çakallarla Dans 7",
+            "description": "The seventh installment of the 'Çakallarla Dans' series follows the four friends as they get tangled in a bigger, crazier criminal adventure in Istanbul, mixing comedy with action.",
+            "year": "2024",
+            "genre": {
+                "one": "Comedy",
+                "two": "Action",
+                "three": "Crime"
+            }
+        },
+        { 
+            "name": "Avatar",
+            "description": "Set on the alien planet of Pandora, Avatar follows a paraplegic Marine who is sent to infiltrate the indigenous Na'vi people but ends up sympathizing with them in their battle against human invaders.",
+            "year": "2009",
+            "genre": {
+                "one": "Science Fiction",
+                "two": "Action",
+                "three": "Adventure"
+            }
+        },
+        { 
+            "name": "Joker",
+            "description": "Joker explores the origins of the iconic villain, focusing on Arthur Fleck, a struggling comedian in Gotham City who descends into madness and becomes the infamous criminal mastermind.",
+            "year": "2019",
+            "genre": {
+                "one": "Drama",
+                "two": "Crime",
+                "three": "Thriller"
+            }
+        }
+    ]
+}
